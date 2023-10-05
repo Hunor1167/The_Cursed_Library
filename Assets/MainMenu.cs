@@ -13,6 +13,6 @@ public class MainMenu : MonoBehaviour
     public void QuitGame()
     {
         Debug.Log("QUIT!") //added comment for commit
-        Application.Quit();
+        Application.Quit(); //added comment for Hunor branch test commit
     }
 }
